@@ -1,0 +1,5 @@
+*               text=auto
+*.gitattributes text export-ignore
+.gitignore      text export-ignore
+*.md            text
+rename          text diff=python
